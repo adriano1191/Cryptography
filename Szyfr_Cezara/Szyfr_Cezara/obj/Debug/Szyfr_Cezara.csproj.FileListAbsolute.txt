@@ -1,9 +1,0 @@
-c:\users\adrian\documents\visual studio 2013\Projects\Szyfr_Cezara\Szyfr_Cezara\bin\Debug\Szyfr_Cezara.exe.config
-c:\users\adrian\documents\visual studio 2013\Projects\Szyfr_Cezara\Szyfr_Cezara\bin\Debug\Szyfr_Cezara.exe
-c:\users\adrian\documents\visual studio 2013\Projects\Szyfr_Cezara\Szyfr_Cezara\bin\Debug\Szyfr_Cezara.pdb
-c:\users\adrian\documents\visual studio 2013\Projects\Szyfr_Cezara\Szyfr_Cezara\obj\Debug\Szyfr_Cezara.csprojResolveAssemblyReference.cache
-c:\users\adrian\documents\visual studio 2013\Projects\Szyfr_Cezara\Szyfr_Cezara\obj\Debug\Szyfr_Cezara.Form1.resources
-c:\users\adrian\documents\visual studio 2013\Projects\Szyfr_Cezara\Szyfr_Cezara\obj\Debug\Szyfr_Cezara.Properties.Resources.resources
-c:\users\adrian\documents\visual studio 2013\Projects\Szyfr_Cezara\Szyfr_Cezara\obj\Debug\Szyfr_Cezara.csproj.GenerateResource.Cache
-c:\users\adrian\documents\visual studio 2013\Projects\Szyfr_Cezara\Szyfr_Cezara\obj\Debug\Szyfr_Cezara.exe
-c:\users\adrian\documents\visual studio 2013\Projects\Szyfr_Cezara\Szyfr_Cezara\obj\Debug\Szyfr_Cezara.pdb
